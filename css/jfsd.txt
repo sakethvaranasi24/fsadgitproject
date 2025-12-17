@@ -1,2 +1,0 @@
-Java Full Stack Application Developyment
-Spring And Spring Boot
